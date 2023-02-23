@@ -1,5 +1,7 @@
 Hello Bangkit Academy
 
+Mencoba menambahkan pembaruan deskripsi
+
 Bangkit adalah program kesiapan karir yang bertujuan untuk menghasilkan talenta teknis berkaliber tinggi untuk perusahaan teknologi dan startup kelas dunia di Indonesia, yang didukung penuh oleh Google, GoTo, dan Traveloka.
 
 Di 2023, mahasiswa Bangkit 2023 bisa memilih belajar machine learning, mobile development, dan cloud computing. Ketiganya dilengkapi dengan pembelajaran yang memungkinkan mahasiswa juga belajar soft skill sekaligus bahasa Inggris yang diperlukan dalam transisi ke dunia kerja.
